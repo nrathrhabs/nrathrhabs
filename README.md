@@ -1,8 +1,6 @@
-# Hi, I'm NUR ATHIRAH BINTI ABASA 👋  
+# Hi, I'm Athirah 👋  
 
-🚀 Aspiring Developer | 💻 Tech Enthusiast | 🎨 Creative Thinker  
-
-Welcome to my GitHub profile! I'm passionate about programming, design, and constantly learning new technologies.  
+Welcome to my GitHub profile! I'm on a journey to learn, grow and explore the world of technologies.
 
 ---
 
